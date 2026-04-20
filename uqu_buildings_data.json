@@ -1,0 +1,867 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "university": "جامعة أم القرى",
+    "campus": "العابدية",
+    "city": "مكة المكرمة",
+    "center": [21.4225, 39.8264],
+    "generated": "2024"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "id": 1,
+        "nameAr": "المستشفى الجامعي",
+        "code": "1/طالب",
+        "sector": "طالب",
+        "category": "medical",
+        "height": 25,
+        "floors": 5,
+        "color": "#ef4444"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8180, 21.4268] }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "id": 2,
+        "nameAr": "الكليات الطبية (الطب-العلوم التطبيقية-التمريض-الصيدلة)",
+        "code": "2/طالب",
+        "sector": "طالب",
+        "category": "medical",
+        "height": 20,
+        "floors": 4,
+        "color": "#ef4444"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8195, 21.4272] }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "id": 3,
+        "nameAr": "الكليات الطبية - طالبات (الطب-العلوم التطبيقية-التمريض-الصيدلة)",
+        "code": "3/طالبات",
+        "sector": "طالبات",
+        "category": "medical",
+        "height": 20,
+        "floors": 4,
+        "color": "#ef4444"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8205, 21.4275] }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "id": 4,
+        "nameAr": "مستشفى طب الأسنان والمستشفى التعليمي",
+        "code": "3/طالب",
+        "sector": "طالب",
+        "category": "medical",
+        "height": 20,
+        "floors": 4,
+        "color": "#ef4444"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8185, 21.4260] }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "id": 5,
+        "nameAr": "مستشفى طب الأسنان والمستشفى التعليمي - طالبات",
+        "code": "4/طالبات",
+        "sector": "طالبات",
+        "category": "medical",
+        "height": 20,
+        "floors": 4,
+        "color": "#ef4444"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8192, 21.4255] }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "id": 6,
+        "nameAr": "إدارة المتاحف",
+        "code": "4/طالب",
+        "sector": "طالب",
+        "category": "administrative",
+        "height": 12,
+        "floors": 3,
+        "color": "#f59e0b"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8175, 21.4252] }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "id": 7,
+        "nameAr": "المسار الصحي",
+        "code": "5/طالبات",
+        "sector": "طالبات",
+        "category": "medical",
+        "height": 15,
+        "floors": 3,
+        "color": "#ef4444"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8170, 21.4245] }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "id": 8,
+        "nameAr": "الكليات الطبية - طالبات",
+        "code": "6/طالب",
+        "sector": "طالبات",
+        "category": "medical",
+        "height": 20,
+        "floors": 4,
+        "color": "#ef4444"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8178, 21.4240] }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "id": 9,
+        "nameAr": "معامل وقاعات الكليات الطبية",
+        "code": "7/طالب+طالبات",
+        "sector": "مشترك",
+        "category": "medical",
+        "height": 15,
+        "floors": 3,
+        "color": "#ef4444"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8188, 21.4248] }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "id": 10,
+        "nameAr": "قاعة الملك فيصل",
+        "code": "8/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 18,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8220, 21.4265] }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "id": 11,
+        "nameAr": "قاعة الملك سعود للاحتفالات",
+        "code": "9/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 18,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8228, 21.4262] }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "id": 13,
+        "nameAr": "مكتب رئيس الجامعة",
+        "code": "11/طالب",
+        "sector": "طالب",
+        "category": "administrative",
+        "height": 20,
+        "floors": 4,
+        "color": "#f59e0b"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8235, 21.4260] }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "id": 14,
+        "nameAr": "الحاسبات",
+        "code": "12/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8242, 21.4258] }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "id": 15,
+        "nameAr": "مطعم الجامعة",
+        "code": "13/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 10,
+        "floors": 2,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8248, 21.4255] }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "id": 16,
+        "nameAr": "كلية العلوم + كلية التصاميم والفنون",
+        "code": "14/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 18,
+        "floors": 4,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8255, 21.4252] }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "id": 17,
+        "nameAr": "الهندسة والعمارة",
+        "code": "15/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 20,
+        "floors": 4,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8262, 21.4250] }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "id": 18,
+        "nameAr": "اللغة العربية لغير الناطقين بها",
+        "code": "16/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8268, 21.4248] }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "id": 19,
+        "nameAr": "مبنى الإدارة العامة",
+        "code": "17/طالب",
+        "sector": "طالب",
+        "category": "administrative",
+        "height": 20,
+        "floors": 4,
+        "color": "#f59e0b"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8272, 21.4245] }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "id": 20,
+        "nameAr": "عمادة تقنية المعلومات والتعلم الإلكتروني",
+        "code": "18/طالب",
+        "sector": "طالب",
+        "category": "administrative",
+        "height": 15,
+        "floors": 3,
+        "color": "#f59e0b"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8278, 21.4242] }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "id": 21,
+        "nameAr": "عمادة القبول والتسجيل + عمادة شؤون الطالب",
+        "code": "19/طالب",
+        "sector": "طالب",
+        "category": "administrative",
+        "height": 18,
+        "floors": 4,
+        "color": "#f59e0b"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8282, 21.4240] }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "id": 22,
+        "nameAr": "عمادة الأنشطة الطلابية",
+        "code": "20/طالب",
+        "sector": "طالب",
+        "category": "administrative",
+        "height": 12,
+        "floors": 3,
+        "color": "#f59e0b"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8288, 21.4238] }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "id": 23,
+        "nameAr": "كلية الإدارة والاقتصاد",
+        "code": "21/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 18,
+        "floors": 4,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8292, 21.4235] }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "id": 24,
+        "nameAr": "اللغة العربية وآدابها",
+        "code": "22/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8298, 21.4232] }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "id": 25,
+        "nameAr": "مبنى ق/1",
+        "code": "23/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8302, 21.4230] }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "id": 26,
+        "nameAr": "مبنى ق/2",
+        "code": "24/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8308, 21.4228] }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "id": 27,
+        "nameAr": "مبنى ق/3",
+        "code": "25/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8312, 21.4226] }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "id": 28,
+        "nameAr": "كلية الدراسات القضائية والأنظمة - ق/4",
+        "code": "26/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 18,
+        "floors": 4,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8318, 21.4224] }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "id": 29,
+        "nameAr": "الإدارة العامة للمشاريع",
+        "code": "27/طالب",
+        "sector": "طالب",
+        "category": "administrative",
+        "height": 12,
+        "floors": 3,
+        "color": "#f59e0b"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8198, 21.4242] }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "id": 30,
+        "nameAr": "إدارة المرافق والخدمات",
+        "code": "28/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 12,
+        "floors": 3,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8205, 21.4238] }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "id": 31,
+        "nameAr": "كلية الشريعة والدراسات الإسلامية",
+        "code": "29/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 18,
+        "floors": 4,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8212, 21.4235] }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "id": 32,
+        "nameAr": "مكتبة الملك عبدالله بن عبدالعزيز",
+        "code": "30/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 20,
+        "floors": 4,
+        "color": "#8b5cf6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8218, 21.4232] }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "id": 33,
+        "nameAr": "عمادة تقنية المعلومات وإدارة الخدمات التعليمية",
+        "code": "31/طالب",
+        "sector": "طالب",
+        "category": "administrative",
+        "height": 15,
+        "floors": 3,
+        "color": "#f59e0b"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8225, 21.4230] }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "id": 34,
+        "nameAr": "المسرح الجامعي",
+        "code": "32/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8232, 21.4228] }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "id": 35,
+        "nameAr": "معهد البحوث والدراسات الاستشارية",
+        "code": "33/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8238, 21.4226] }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "id": 36,
+        "nameAr": "كلية الدعوة وأصول الدين",
+        "code": "34/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 18,
+        "floors": 4,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8244, 21.4224] }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "id": 37,
+        "nameAr": "إدارة الأمن الجامعي",
+        "code": "35/طالب",
+        "sector": "طالب",
+        "category": "administrative",
+        "height": 10,
+        "floors": 2,
+        "color": "#f59e0b"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8250, 21.4222] }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "id": 38,
+        "nameAr": "مبنى ق/6",
+        "code": "36/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8256, 21.4220] }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "id": 39,
+        "nameAr": "كلية التمريض - ق/5",
+        "code": "37/طالب",
+        "sector": "طالب",
+        "category": "medical",
+        "height": 15,
+        "floors": 3,
+        "color": "#ef4444"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8262, 21.4218] }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "id": 40,
+        "nameAr": "كلية التربية",
+        "code": "38/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 18,
+        "floors": 4,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8268, 21.4216] }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "id": 41,
+        "nameAr": "معهد الإبداع وريادة الأعمال",
+        "code": "39/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8274, 21.4215] }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "id": 42,
+        "nameAr": "معهد المخطوطات وإحياء التراث الإسلامي",
+        "code": "40/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8280, 21.4213] }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "id": 43,
+        "nameAr": "كلية العلوم الاجتماعية",
+        "code": "41/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 18,
+        "floors": 4,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8286, 21.4212] }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "properties": {
+        "id": 44,
+        "nameAr": "شركة وادي مكة",
+        "code": "42/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 12,
+        "floors": 3,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8292, 21.4210] }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "id": 45,
+        "nameAr": "سكن الطلاب",
+        "code": "43/طالب",
+        "sector": "طالب",
+        "category": "residential",
+        "height": 30,
+        "floors": 6,
+        "color": "#06b6d4"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8170, 21.4225] }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "id": 52,
+        "nameAr": "سكن أعضاء هيئة التدريس",
+        "code": "52/طالب",
+        "sector": "هيئة تدريس",
+        "category": "residential",
+        "height": 25,
+        "floors": 5,
+        "color": "#06b6d4"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8162, 21.4218] }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "id": 53,
+        "nameAr": "النادي الاجتماعي",
+        "code": "53/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 12,
+        "floors": 3,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8158, 21.4210] }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "id": 54,
+        "nameAr": "مبنى المختبرات البحثية والصوبة النباتية",
+        "code": "54/طالب",
+        "sector": "طالب",
+        "category": "academic",
+        "height": 15,
+        "floors": 3,
+        "color": "#3b82f6"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8298, 21.4205] }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "id": 55,
+        "nameAr": "مبنى مستودع المواد الكيميائية",
+        "code": "55/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 8,
+        "floors": 2,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8302, 21.4202] }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "properties": {
+        "id": 56,
+        "nameAr": "مبنى إدارة المستودعات",
+        "code": "56/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 8,
+        "floors": 2,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8306, 21.4200] }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "properties": {
+        "id": 57,
+        "nameAr": "مبنى ورشة السيارات",
+        "code": "57/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 8,
+        "floors": 2,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8296, 21.4198] }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "properties": {
+        "id": 58,
+        "nameAr": "مبنى المطبخ المركزي",
+        "code": "58/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 8,
+        "floors": 2,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8292, 21.4196] }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "id": 59,
+        "nameAr": "مطبعة الجامعة",
+        "code": "59/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 8,
+        "floors": 2,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8288, 21.4194] }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "properties": {
+        "id": 60,
+        "nameAr": "مبنى الورش المركزية",
+        "code": "60/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 8,
+        "floors": 2,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8284, 21.4192] }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "properties": {
+        "id": 61,
+        "nameAr": "مبنى المستودعات",
+        "code": "61/طالب",
+        "sector": "طالب",
+        "category": "services",
+        "height": 8,
+        "floors": 2,
+        "color": "#10b981"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8302, 21.4197] }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "properties": {
+        "id": 62,
+        "nameAr": "الصالة الرياضية",
+        "code": "62/طالب",
+        "sector": "طالب",
+        "category": "sports",
+        "height": 12,
+        "floors": 2,
+        "color": "#f97316"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8165, 21.4200] }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "properties": {
+        "id": 63,
+        "nameAr": "الأستاذ الرياضي",
+        "code": "63/طالب",
+        "sector": "طالب",
+        "category": "sports",
+        "height": 10,
+        "floors": 2,
+        "color": "#f97316"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8172, 21.4198] }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "properties": {
+        "id": 64,
+        "nameAr": "مركز الوثائق والمحفوظات",
+        "code": "64/طالب",
+        "sector": "طالب",
+        "category": "administrative",
+        "height": 12,
+        "floors": 3,
+        "color": "#f59e0b"
+      },
+      "geometry": { "type": "Point", "coordinates": [39.8295, 21.4206] }
+    }
+  ]
+}
